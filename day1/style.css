@@ -1,0 +1,50 @@
+/*
+External CSS file
+*/
+
+body{
+    max-width: 1000px;
+    margin: auto;
+    font-family: Roboto;
+    font-size: 16px;
+    background-color: powderblue;
+    border-style: groove;
+    
+}
+h4{
+    font: italic small-caps bolder 28px arial, sans-serif;
+    text-align: center;
+  }
+
+#left{
+    float: left;
+    padding: 0px;
+    border: none;
+}
+#right{
+    float: right;
+    padding: 0px;
+    border: none;
+}
+table, th, td {
+  border: 1px solid black;
+   border-collapse: collapse;
+   padding: 15px;
+   background-color: #f1f1c1;
+ 
+   }
+   th {
+  text-align: left;
+}
+table {
+  border-spacing: 5px;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+  
+
+
